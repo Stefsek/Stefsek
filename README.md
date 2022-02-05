@@ -1,6 +1,8 @@
 <h2 align="center">Hello there! My name is Stefanos Sekis.  👋</h2>
 
-### A little about me... 
+<img title="Stefan" alt="Stefan" width="200px" src="https://sdk.bitmoji.com/render/panel/76c3b171-f0cf-4dd6-b91f-91bd86693f61-7103dfb2-d342-49ae-be46-581e53ecc939-v1.png" />
+
+### A little about me
 - I'm a Data Scientist,passionate about learning and working with new tech. I love working on data analysis and machine learning projects 
 that serve a great deal of purpose. <br/><br/>
 
