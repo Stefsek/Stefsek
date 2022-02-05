@@ -38,7 +38,7 @@ that serve a great deal of purpose. <br/><br/>
 
 ## Let's Connect :handshake:
 
-<a href="www.linkedin.com/in/Stefanos-Sekis"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>  <a href="mailto:schekies@outlook.com.gr"><img src="https://iconape.com/wp-content/files/ra/85454/png/outlook-1.png" width="40"></a>
+<a href="https://www.linkedin.com/in/stefanos-sekis/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>  <a href="mailto:schekies@outlook.com.gr"><img src="https://iconape.com/wp-content/files/ra/85454/png/outlook-1.png" width="40"></a>
 
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
