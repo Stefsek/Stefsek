@@ -6,7 +6,7 @@
 that serve a great deal of purpose. <br/><br/<h2>
 
 ## Skill Set :muscle:
- - These are some of the major technologies that I use or have worked on in the past:
+ - **These are some of the major technologies that I use or have worked on in the past**:
 
 <h2 align="center">
 
