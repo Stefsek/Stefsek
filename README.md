@@ -1,12 +1,12 @@
 <h1 align="center">Hello there! My name is Stefanos Sekis.  👋</h1>
 
-<img title="Stefan" alt="Stefan" width="300px" src="https://sdk.bitmoji.com/render/panel/ae0f10a5-f13e-4cc9-a4e0-3b2731527da1-7103dfb2-d342-49ae-be46-581e53ecc939-v1.png" />
+<img title="Stefanos Sekis" alt="Stefan" width="200px" src="https://sdk.bitmoji.com/render/panel/ae0f10a5-f13e-4cc9-a4e0-3b2731527da1-7103dfb2-d342-49ae-be46-581e53ecc939-v1.png" />
 
-<h2> - I'm a Data Scientist,passionate about learning and working with new tech. I love working on data analysis and machine learning projects 
-that serve a great deal of purpose. <br/><br/<h2>
+<h3> - I'm a Data Scientist,passionate about learning and working with new tech. I love working on data analysis and machine learning projects 
+that serve a great deal of purpose. <br/><br/<h3>
 
 ## Skill Set :muscle:
- - **These are some of the major technologies that I use or have worked on in the past**:
+ - <h4>These are some of the major technologies that I use or have worked on in the past:<h4>
 
 <h2 align="center">
 
