@@ -28,7 +28,8 @@ that serve a great deal of purpose. <br/><br/<h2>
 
 **Tools**
 
-<img title="Windows" alt="Windows" width="40px" src="https://iconape.com/wp-content/files/sj/380491/svg/380491.png"> <img title="Office" alt="Office" width="40px" src="https://iconape.com/wp-content/files/sz/121911/png/Microsoft_Office_icon__2019_.png"> <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></h2>
+ 
+<img title="Power bi" alt="Power bi" width="40px" src="https://iconape.com/wp-content/files/rf/85510/png/power-bi-1.png"> <img title="Office" alt="Office" width="40px" src="https://iconape.com/wp-content/files/sz/121911/png/Microsoft_Office_icon__2019_.png"> <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></h2>
 
 ## Hobbies 📅
 - Reading articles 
