@@ -41,10 +41,7 @@ that serve a great deal of purpose. <br/><br/<h3>
 
 <a href="https://www.linkedin.com/in/stefanos-sekis/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="60px"></a>  <a href="mailto:schekies@outlook.com.gr"><img src="https://iconape.com/wp-content/files/ra/85454/png/outlook-1.png" width="60px"></a>
 
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
 
 <!---
