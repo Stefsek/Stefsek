@@ -1,50 +1,85 @@
-<h1 align="center">Hello there! My name is Stefanos Sekis.  👋</h1>
+<div align="center">
+  
+  # Hi, I'm Stefanos Sekis 👋
+  
+  ### Data Engineer | AWS Cloud Architecture | ETL Pipelines | LLM Integration
+  
+  Designing and implementing scalable data infrastructure on AWS, from ETL pipelines to LLM-powered solutions.
+  
+  📍 Thessaloniki, Greece | 🎓 MSc Big Data Analytics (University of Derby)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanos-sekis/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schekies@outlook.com.gr)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stefsek)
+</div>
 
-<img title="Stefanos Sekis" alt="Stefan" width="200px" src="https://sdk.bitmoji.com/render/panel/ae0f10a5-f13e-4cc9-a4e0-3b2731527da1-7103dfb2-d342-49ae-be46-581e53ecc939-v1.png" />
+---
 
-<h3> - I'm a Data Scientist,passionate about learning and working with new tech. I love working on data analysis and machine learning projects 
-that serve a great deal of purpose. <br/><br/<h3>
+## 💼 About Me
 
-## Skill Set :muscle:
- - <h4>These are some of the major technologies that I use or have worked on in the past:<h4>
+I'm a Data Engineer with hands-on experience building **scalable data pipelines** and **cloud-native solutions**. Currently working at **WeAre8**, where I architect comprehensive ETL workflows, real-time data ingestion systems, and LLM-powered solutions using AWS services.
 
-<h2 align="center">
+---
 
-**Programming Languages**
+## 🛠️ Technical Stack
 
-  <img title="Python" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+### AWS Services
 
- **Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/>
+  <img src="https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Step Functions"/>
+  <img src="https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Glue"/>
+  <img src="https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Kinesis"/>
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EventBridge"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS"/>
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS"/>
+  <img src="https://img.shields.io/badge/DMS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="DMS"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Secrets Manager"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
+  <img src="https://img.shields.io/badge/Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Bedrock"/>
+</p>
 
-  <img title="Pandas" alt="Pandas" width="60px" src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png"><img title="Numpy" alt="Numpy" width="60px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png"><img title="TensorFlow" alt="TensorFlow" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"> <img title="Keras" alt="Keras" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png"> <img title="Scikit-Learn" alt="Scikit Learn" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"> <img title="OpenCV" alt="OpenCV" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
+### Infrastructure as Code
+![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Cloud**
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img title="AWS" alt="AWS" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+### Databases & Data Warehouses
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-**Databases**
+### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img title="SQL" alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> <img title="MongoDB" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+---
 
-**Tools**
+## 🚀 Highlighted Projects
 
- 
-<img title="Power bi" alt="Power bi" width="60px" src="https://iconape.com/wp-content/files/rf/85510/png/power-bi-1.png"> <img title="Office" alt="Office" width="60pxpx" src="https://iconape.com/wp-content/files/sz/121911/png/Microsoft_Office_icon__2019_.png"> <img title="git" alt="git" width="60pxpx" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="Jupyter Notebook" alt="Jupyter" width="60pxpx" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></h2>
+### 🎯 [AWS Ticket Management System](https://github.com/Stefsek/AWS-TicketManagementSystem)
+MSc Thesis project implementing a serverless ticketing system using AWS services
+- **Tech Stack:** AWS Lambda, DynamoDB, API Gateway, S3, CloudFormation, LangChain
+- **Focus:** Infrastructure as Code, Serverless Architecture, AI Integration
+---
 
-## Hobbies 📅
-- Reading articles 
-- Watch Netflix and Youtube
-- Play videogames
-- etc.
+## 📫 Let's Connect!
 
-## Let's Connect :handshake:
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stefanos-sekis/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:schekies@outlook.com.gr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://github.com/Stefsek)
 
-<a href="https://www.linkedin.com/in/stefanos-sekis/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="60px"></a>  <a href="mailto:schekies@outlook.com.gr"><img src="https://iconape.com/wp-content/files/ra/85454/png/outlook-1.png" width="60px"></a>
+</div>
 
-
-
-
-<!---
-Stefsek/Stefsek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
