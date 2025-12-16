@@ -2,26 +2,24 @@
   
   # Hi, I'm Stefanos Sekis 👋
   
-  ### Data Engineer | AWS Cloud Architecture | ETL Pipelines | LLM Integration
-  
-  Designing and implementing scalable data infrastructure on AWS, from ETL pipelines to LLM-powered solutions.
+  ### Data Engineering | AWS Cloud Architecture | Real-Time Data Pipelines | LLM Integration
   
   📍 Thessaloniki, Greece | 🎓 MSc Big Data Analytics (University of Derby)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanos-sekis/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schekies@outlook.com.gr)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stefsek)
+  <a href="https://www.linkedin.com/in/stefanos-sekis/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Stefsek"><img src="https://skillicons.dev/icons?i=github" /></a>
+  
 </div>
 
 ---
 
-## 💼 About Me
+## About Me
 
 I'm a Data Engineer with hands-on experience building **scalable data pipelines** and **cloud-native solutions**. Currently working at **WeAre8**, where I architect comprehensive ETL workflows, real-time data ingestion systems, and LLM-powered solutions using AWS services.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### AWS Services
 
@@ -64,22 +62,18 @@ I'm a Data Engineer with hands-on experience building **scalable data pipelines*
 
 ---
 
-## 🚀 Highlighted Projects
+## Highlighted Projects
 
-### 🎯 [AWS Ticket Management System](https://github.com/Stefsek/AWS-TicketManagementSystem)
+### [AWS Ticket Management System](https://github.com/Stefsek/AWS-TicketManagementSystem)
 MSc Thesis project implementing a serverless ticketing system using AWS services
-- **Tech Stack:** AWS Lambda, DynamoDB, API Gateway, S3, CloudFormation, LangChain
-- **Focus:** Infrastructure as Code, Serverless Architecture, AI Integration
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stefanos-sekis/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:schekies@outlook.com.gr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://github.com/Stefsek)
-
-</div>
+- **Tech Stack:** AWS Lambda, Kinesis, DynamoDB, Step Functions, S3, AWS CDK, SNS, LangChain
+- **Description:** An event-driven serverless ticketing system that processes support requests in real-time. Incoming tickets are ingested through Kinesis Data Streams and orchestrated by Step Functions. Each ticket undergoes sentiment analysis with Amazon Comprehend, followed by AI-generated responses using Bedrock LLMs via Lambda. Ticket metadata is stored in DynamoDB for fast retrieval, while complete records are archived in S3. SNS handles real-time notifications, and AWS Glue performs ETL operations to load data into Redshift for analytics. CloudWatch Alarms monitor the entire pipeline for failures, ensuring reliable ticket processing.
 
 ---
+
+## Recent Achievements
+
+- ✅ Successfully migrated **170M+ rows** from PostgreSQL to Amazon Redshift with zero data loss
+- ✅ Built real-time data ingestion pipeline using MongoDB triggers & AWS Lambda
+- ✅ Developed LLM-powered labeling solutions with vector search capabilities
+- ✅ Completed MSc in Big Data Analytics (University of Derby, 2025)
