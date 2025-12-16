@@ -73,7 +73,10 @@ MSc Thesis project implementing a serverless ticketing system using AWS services
 
 ## Recent Achievements
 
-- ✅ Successfully migrated **170M+ rows** from PostgreSQL to Amazon Redshift with zero data loss
-- ✅ Built real-time data ingestion pipeline using MongoDB triggers & AWS Lambda
-- ✅ Developed LLM-powered labeling solutions with vector search capabilities
-- ✅ Completed MSc in Big Data Analytics (University of Derby, 2025)
+- Successfully migrated **170M+ rows** from PostgreSQL to Amazon Redshift with zero data loss
+- Built real-time data ingestion pipeline using MongoDB triggers & AWS Lambda
+- Developed LLM-powered labeling solutions with vector search capabilities
+
+## Currently Learning
+
+- **FastMCP 2.0** - Building Model Context Protocol servers with python
