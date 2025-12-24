@@ -4,7 +4,7 @@
   
   ### Data Engineering | AWS Cloud Architecture | Real-Time Data Pipelines | LLM Integration
   
-  📍 Thessaloniki, Greece | 🎓 MSc Big Data Analytics (University of Derby)
+  📍 Kilkis, Greece | 🎓 MSc Big Data Analytics (University of Derby)
   
   <a href="https://www.linkedin.com/in/stefanos-sekis/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/Stefsek"><img src="https://skillicons.dev/icons?i=github" /></a>
