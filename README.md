@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Data Engineer with hands-on experience building **scalable data pipelines** and **cloud-native solutions**. Currently working at **WeAre8**, where I architect comprehensive ETL workflows, real-time data ingestion systems, and LLM-powered solutions using AWS services.
+I'm a Data Engineer with hands-on experience building scalable data pipelines and cloud-native solutions. I have architected comprehensive ETL workflows, real-time data ingestion systems, and LLM-powered solutions using AWS services.
 
 ---
 
